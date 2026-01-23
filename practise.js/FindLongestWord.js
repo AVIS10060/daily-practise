@@ -11,6 +11,11 @@ const findLongestWord = (str)=>{
     words = words.sort((a,b) => b.length - a.length)
     console.log(words[0])
 
+
+    // another method 
+
+    // words.reduce((accum,currWord)=>(currWord.length > accum.length ? currWord : accum),"")
+
     
 
 
