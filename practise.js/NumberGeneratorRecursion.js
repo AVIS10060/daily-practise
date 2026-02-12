@@ -12,4 +12,4 @@ const NG = (a,b,arr = []) =>{
 
 
 
-console.log(NG(0,5))
+console.log(NG(0,7))
