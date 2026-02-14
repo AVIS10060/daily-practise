@@ -25,4 +25,4 @@ function CalculateMedian(arr) {
 
 console.log(CalculateMedian([3,3,5,9,15]))
 console.log(CalculateMedian([3,5,7,9]))
-console.log(CalculateMedian([]))
+console.log(CalculateMedian([])) //
