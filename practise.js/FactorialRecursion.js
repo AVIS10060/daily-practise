@@ -11,4 +11,4 @@ const FR = (n)=>{
 }
 
 
-console.log(FR(4)) ////////
+console.log(FR(4)) //////////////
